@@ -1,0 +1,18 @@
+/* Nesse arquivo iremos criar as nossas variáveis */
+
+/* Colocar nomes bons de variáveis. Não colocar nomes com cores. Se a cor mudar um dia, terei que mudar todas as variáveis. Colocar nomes genéricos. */
+
+:root {
+  --primary-soft: hsl(215, 51%, 70%);
+  --primary-medium: hsl(178, 100%, 50%);
+
+  --neutral-dark: hsl(217, 54%, 11%);
+  --neutral-medium: hsl(216, 50%, 16%);
+  --neutral-soft: hsl(215, 32%, 27%);
+}
+
+/* 
+  Em empresas talvez não irei usar variáveis dessa maneira. Cada empresa tem a sua maneira de usar variáveis. Talvez com sass ou pré-processadores CSS. 
+  Mas em projetos iniciantes podemos usar dessa maneira que estou fazendo no curso sem problemas.
+ */
+
