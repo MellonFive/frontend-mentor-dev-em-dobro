@@ -1,5 +1,3 @@
-# https://dev-em-dobro.ticto.club/content/1934/module/9444/lesson/29834
-
 # Notion: https://humane-legend-9f9.notion.site/Workshop-como-iniciar-um-projeto-sem-travar-Passo-Passo-ba62ca9812f445838e4db7a1a19bfdcb
 
 
