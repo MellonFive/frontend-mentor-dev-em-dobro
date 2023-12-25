@@ -1,7 +1,7 @@
 <h1 align="center">NFT preview Card Component</h1>
 
 <p align="center">
-Vídeo aula de como criar um projeto sem travar. exclusivo pela Dev em Dobro para praticar Front-End.
+Vídeo aula de como criar um projeto sem travar. Exclusivo pela Dev em Dobro para praticar Front-End.
 </p>
 
 <br>
