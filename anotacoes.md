@@ -63,19 +63,17 @@ Não é bom deixar o template que vem junto com o Front-End Mentor, não é bom 
 ## Começar a fazer o projeto 37:53
 
 46:44(PRESTAR ATENÇÃO NESSA PARTE!!!) ->  Agora vamos começar a criar a estrutura dentro do body. Agora é a parte que precisamos começar a pensar. Como iremos criar a estrutura HTML de acordo com o projeto?
-Analisar é um dos fatores que fazem não tratar. Analise o design.
+Analisar é um dos fatores que fazem não tratar. Analise o design(figma).
 
-Aprenda pelo menos display: flex para fazer os projetos de HTML e CSS.
+Aprenda pelo menos até o display: flex para fazer os projetos de HTML e CSS.
 
 ![img/img1.png](/src/images/img1.png)
 
 Tudo o que é principal na página vai dentro da tag `main`.
 
-Errou? Conserta! Você nunca vai acertar nada de primeira.
+Errou? Conserta! Você nunca vai acertar nada de primeira. Pode ser que você termine de montar o seu HTML, o CSS e o JS, mas terá que mudar ele futuramente. E isso é completamente normal. Não existe o HTML perfeito!
 
-Fazer as classes quando for fazer o CSS.
-
-Pode ser que você termine de montar o seu HTML, mas terá que mudar ele futuramente. E isso é completamente normal. Não existe o HTML perfeito!
+Fazer as classes quando for fazer o CSS apenas.
 
 ## 1:07:51 Fazendo o CSS
 
@@ -87,7 +85,7 @@ Background-color ou border são o console.log do CSS. Como assim?
 É uma forma da gente debugar/entender o que está acontecendo com o código. Saber o que é aquele elemento, o tamanho que ele está ocupando.
 
 Aonde dar um display: flex? Poderia ser no body? Até poderia. Só que ele vai alinhar horizontalmente.
-Então iremos fazer no main. E no body, geralmente, não é bom ficar estilizando um monte de coisa nele.
+Então iremos fazer no main. E no body, geralmente, não é bom ficar estilizando um monte de coisa nele.(Porque?)
 
 Vamos prestar atenção nisso:
 
@@ -101,8 +99,7 @@ main {
 
 Sempre cria classes no HTML. Fica mais específico e mais fácil também de entender o código.
 
-
-Em cada conteúdo que você for fazer, faças as classes na hora. Não faça as classes tudo de uma vez para depois estilizar no CSS.
+Em cada conteúdo que você for fazer, faças as classes na hora. Pegue um elemento por vez. Não faça as classes tudo de uma vez para depois estilizar no CSS.
 
 ## Actives 2:13:10
 
@@ -140,7 +137,7 @@ Estude mais sobre o conceito de before e after
 
 ## Responsivo 2:35:48
 
-Verificar se tem a extensão Responsive View. Se não tiver, baixa.
+Verificar se tem a extensão Responsive View no browser. Se não tiver, baixa.
 
 Nem é necessário criar um responsivo
 
@@ -151,10 +148,11 @@ O que fica com o projeto?
 Na hora de fazer um projeto do Front-End Mentor, use o workshop para fazer outros projetos.
 
 **Sempre analise os assuntos do projeto antes de começar a codar. Isso vai evitar travar mais.**
+
 Até o cadu e o beto travaram na hora de fazer os positions... E isso vai acontecer naturalmente.
 Programadores sêniors vão travar também, vão pedir ajudar também e não são robôs para saberem de tudo.
 
-Quanto mais você praticar, mais você vai ficar maduro e vai destravar mais rápido.
+Mas quanto mais você praticar, mais você vai ficar maduro e vai destravar mais rápido.
 A mentalidade de agora é analisar antes as coisas antes de começar a codar. Comece daqui para frente.
 
 No CSS tem algumas coisas que precisam ser refatoradas. Coloque o projeto no github e refatore depois.
