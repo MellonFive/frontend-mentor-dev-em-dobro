@@ -62,16 +62,20 @@ Não é bom deixar o template que vem junto com o Front-End Mentor, não é bom 
 
 ## Começar a fazer o projeto 37:53
 
-46:44(PRESTAR ATENÇÃO NESSA PARTE!!!) ->  Agora vamos começar a criar a estrutura dentro do body. Agora é a parte que precisamos começar a pensar. Como iremos criar a estrutura HTML de acordo com o projeto?
-Analisar é um dos fatores que fazem não tratar. Analise o design(figma).
+46:44(PRESTAR ATENÇÃO NESSA PARTE!!!) ->  Agora vamos começar a criar a estrutura dentro do body. É a parte que precisamos começar a pensar. 
+Como iremos criar a estrutura HTML de acordo com o projeto?
 
-Aprenda pelo menos até o display: flex para fazer os projetos de HTML e CSS.
+*Analisar é um dos fatores que precisam ser bem feitos e não faz um programador travar. Se tiver condições de analisar o figma, analise. O Front-End mentor tem figma mas precisa pagar para usar.*
 
-![img/img1.png](/src/images/img1.png)
+*Se eu pegar desafios do Front-End Mentor para fazer sem aprender display flex e grid, terei uma dificuldade maior. No mercado de trabalho irei sempre usar flex e grid. Então pratique com as ferramenta mais novas.*
+
+`Wireframe` -> Projetar e criar a experiência de usuário. Assista esse vídeo -> https://www.youtube.com/watch?v=69PngSL6XN4
+
+O projeto analisado -> ![img/img1.png](/src/images/img1.png)
 
 Tudo o que é principal na página vai dentro da tag `main`.
 
-Errou? Conserta! Você nunca vai acertar nada de primeira. Pode ser que você termine de montar o seu HTML, o CSS e o JS, mas terá que mudar ele futuramente. E isso é completamente normal. Não existe o HTML perfeito!
+Errou? Conserta! Você nunca vai acertar nada de primeira. Pode ser que você termine de montar o seu HTML, o CSS e o JS, mas terá que mudar ele futuramente. **E isso é completamente normal.** Não existe o HTML perfeito! Até um sênior faz isso
 
 Fazer as classes quando for fazer o CSS apenas.
 
@@ -139,7 +143,7 @@ Estude mais sobre o conceito de before e after
 
 Verificar se tem a extensão Responsive View no browser. Se não tiver, baixa.
 
-Nem é necessário criar um responsivo
+Nem é necessário criar um responsivo nesse projeto
 
 ## Fim do projeto 2:38:08 
 
@@ -147,7 +151,7 @@ O que fica com o projeto?
 
 Na hora de fazer um projeto do Front-End Mentor, use o workshop para fazer outros projetos.
 
-**Sempre analise os assuntos do projeto antes de começar a codar. Isso vai evitar travar mais.**
+**Sempre analisar os assuntos do projeto antes de começar a codar. Isso vai evitar travar mais.**
 
 Até o cadu e o beto travaram na hora de fazer os positions... E isso vai acontecer naturalmente.
 Programadores sêniors vão travar também, vão pedir ajudar também e não são robôs para saberem de tudo.
