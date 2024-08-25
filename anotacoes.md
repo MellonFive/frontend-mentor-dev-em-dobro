@@ -22,6 +22,7 @@
     a. criar estrutura de pastas
     (Criar a pasta src e dentro da pasta vai colocar as pastas css, img, js e depois vai colocar os arquivos dentro dela. E vai criar depois o index.html dentro da pasta raiz. Estrutura padrão. Os projetos mais simples vai ser dessa maneira. É diferente do que fazer um projeto react.)
 
+
 3. Criar o html
     1. criar o index.html
     (Sempre criar o principal arquivo HTML com o nome de index. Sites de servidores de web, não vão conseguir carregar sem ter esse nome.)
@@ -29,12 +30,14 @@
     2. criar a estrutura base do html(Geralmente começamos criando as sessões ou divs maiores e aos poucos vamos entrando em cada uma delas e criando as tags e os elementos HTMl dentro delas.
     Nunca se preocupe em criar o HTML perfeito. Isso nunca vai existir!)
     
+
 4. criar o CSS
     1. criar o arquivo de reset.css
     (Em casos de projetos um pouco mais complexos, criar esse arquivo.)
     2. criar o arquivo de estilos, estilo.css
     (Começar a estilizar o site nesse arquivo. Estilize de cima para baixo. Começando pelo menu chegando até o rodapé. Sempre de cima para baixo e da esquerda para a direita, igual a leitura. Comece estilizando a base e depois estilizando os itens, as sessões as divs de dentro.
     Tome cuidado para não estilizar um menu difícil e querer estilizar o rodapé primeiro.)
+
 
 5. criar o JS
     1. se tiver
