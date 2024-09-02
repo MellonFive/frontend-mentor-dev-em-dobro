@@ -68,7 +68,7 @@ Como iremos criar a estrutura HTML de acordo com o projeto?
 
 `Wireframe` -> Projetar e criar a experiência de usuário. Assista esse vídeo -> https://www.youtube.com/watch?v=69PngSL6XN4
 
-O projeto analisado -> ![img/img1.png](/src/images/img1.png)
+O projeto analisado ![img/img1.png](/src/images/img1.png)
 
 Tudo o que é principal na página vai dentro da tag `main`.
 
