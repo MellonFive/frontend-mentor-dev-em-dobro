@@ -1,13 +1,10 @@
-# Notion: https://humane-legend-9f9.notion.site/Workshop-como-iniciar-um-projeto-sem-travar-Passo-Passo-ba62ca9812f445838e4db7a1a19bfdcb
-
-
 ## Dividimos a construção de qualquer software nas seguintes etapas:
 
 1. Análise(Planejar, pensar)
 
   `a. Análise do projeto` -> (Vai dar uma olhada no projeto e analisar o que ele tem. No Front-End Mentor não tem acesso ao figma, então preciso analisar o que tem no projeto.)
 
-  `b. anotar as dúvidas e vai tirar as dúvidas com o designer`-> Mas toma cuidado para não perguntar tudo. Você no começo tem que saber se virar um pouco. Perguntar sobre mais assuntos complexos. Em uma empresa fica um pouco mais complicado, precisa se virar como um programador iniciante.
+  `b. anotar as dúvidas e vai tirar as dúvidas com o designer`-> *Mas toma cuidado para não perguntar tudo.* Você no começo tem que saber se virar um pouco. Perguntar sobre mais assuntos complexos. Em uma empresa fica um pouco mais complicado, precisa se virar como um programador iniciante.
     No curso posso perguntar á vontade.
     E depois, olhar as telas, abrir o projeto, olhar páginas, vai analisar por cima o que precisamos construir exatamente.
 
