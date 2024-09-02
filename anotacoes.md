@@ -81,7 +81,7 @@ Errou? Conserta! Pode ser que você termine de montar o seu HTML, o CSS e o JS, 
 
 Se não tenho o figma, como que faço para olhar a largura e a altura do componente?
 Irei baixar a extensão `Perfect Pixel` para instalar no browser que utilizo.
-Com essa extensão dá para ter uma noção de fonte, de margin, de padding, de largura...
+Com essa extensão dá para ter uma noção de fonte, margin, padding, largura...
 
 1:21:50 -> Background-color ou border são o console.log do CSS. Como assim?
 É uma forma da gente debugar/entender o que está acontecendo com o código. Saber o que é aquele elemento, o tamanho que ele está ocupando.
